@@ -2,5 +2,5 @@ open System
 
 [<EntryPoint>]
 let main args = 
-    printfn "Hello world"
+    printf "%i\n" (Advent.Day1.SolveB())
     0
