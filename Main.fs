@@ -2,5 +2,5 @@ open System
 
 [<EntryPoint>]
 let main args = 
-    printf "%i\n" (Advent.Day1.SolveB())
+    printf "%s\n" (Advent.Day2.SolveB())
     0
